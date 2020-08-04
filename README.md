@@ -1,0 +1,2 @@
+# OldstyleZipCrack
+古いタイプのzipパスワードをクラックするツール
